@@ -1,0 +1,2 @@
+(this["webpackJsonpkch-landing"]=this["webpackJsonpkch-landing"]||[]).push([[3],{109:function(t,i,c){"use strict";c.r(i);var n=c(1);i.default=function(t){var i=t.src,c=t.width,h=t.height;return Object(n.jsx)("img",{src:"/img/svg/".concat(i),alt:i,with:c,height:h})}}}]);
+//# sourceMappingURL=3.66885d69.chunk.js.map
